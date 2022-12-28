@@ -183,4 +183,7 @@ pip-selfcheck.json
 !.vscode/extensions.json
 *.code-workspace
 
+### cvs data ###
+*.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/python,vscode,jupyternotebooks,virtualenv
